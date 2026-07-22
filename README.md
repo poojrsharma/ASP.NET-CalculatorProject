@@ -3,7 +3,6 @@
 A beginner-friendly calculator web application developed using **ASP.NET Web Forms** and **C#** in **Visual Studio**. This project demonstrates the implementation of server-side event handling, ASP.NET controls, and basic arithmetic operations through a simple and responsive user interface.
 
 ## Project Overview
-
 The calculator accepts two numeric inputs and performs the following operations:
 
 * Addition
@@ -12,6 +11,10 @@ The calculator accepts two numeric inputs and performs the following operations:
 * Division
 
 The project was created as part of my learning journey to strengthen my understanding of ASP.NET Web Forms and C# programming.
+
+## Application Screenshot
+
+![Calculator output](Calculator-output.png)
 
 ## Technologies Used
 
